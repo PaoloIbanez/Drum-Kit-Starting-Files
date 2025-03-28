@@ -26,6 +26,11 @@ Drum Kit Starting Files/
 - CSS
 - JavaScript
 
+## Example of How It Looks Below
+![Screenshot 2025-03-28 191050](https://github.com/user-attachments/assets/0f70dd67-2042-4b94-98d5-c940c275fb81)
+
+
+
 ## Credits
 This project was created by Paolo as part of a web development course.
 

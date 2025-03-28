@@ -34,7 +34,7 @@ function makeSound(key) {
     }
 }
 function buttonAnimation(currentKey) {
-    var activeButton = document.querySelector("." + currentKey);
+    var activeButton = document.querySelector("." + currentKey); // we add the . to select the class in css if not it wont recognize it
     activeButton.classList.add("pressed");
     setTimeout(function() {
         activeButton.classList.remove("pressed");

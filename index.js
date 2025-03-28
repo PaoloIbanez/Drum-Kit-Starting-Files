@@ -54,9 +54,9 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
     });
 }
 
-document.querySelector("button").addEventListener("click", function() {
-    alert("Button clicked!");
-}); 
+//document.querySelector("button").addEventListener("click", function() {
+//    alert("Button clicked!");
+//}); 
 
 
 
